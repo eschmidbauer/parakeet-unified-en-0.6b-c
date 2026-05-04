@@ -53,3 +53,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+.venv
+__pycache__
+notes.txt
+.cache
+c_weights_*
+csrc/parakeet
+*.wav
+onnx_fp32
+onnx_int8
